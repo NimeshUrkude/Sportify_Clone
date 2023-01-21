@@ -1,0 +1,44 @@
+.right_upper_div{
+    display: flex;
+    justify-content: space-between;
+}
+.right_upper_arrow{
+    height: 30px;
+    margin: 7px 10px;
+}
+.right_upper_signup{
+    background-color: #121212;
+    border: 0px;
+    color: grey;
+    padding: 6px 16px;
+    font-size: 20px;
+    font-family: 'Space Mono', monospace;
+}
+.right_upper_signup:hover{
+    color: white;
+}
+.right_upper_login{
+    background-color: white;
+    padding: 6px 16px;
+    border-radius: 20px;
+    font-size: 20px;
+    font-family: 'Space Mono', monospace;
+    font-weight: 800;
+    color: black;
+}
+.right_upper_login:hover{
+    -webkit-box-shadow: 20px 20px 300px 19px rgba(255,255,255,1);
+    -moz-box-shadow: 20px 20px 300px 19px rgba(255,255,255,1);
+    box-shadow: 20px 20px 300px 19px rgba(255,255,255,1);
+}
+
+@media (min-width:0px) and (max-width:500px) {
+    .right_upper_arrow{
+        height: 22.5px;
+        margin: 3px 10px;
+    }
+    .right_upper_login ,.right_upper_signup{
+        padding: 3px 10px;
+        font-size: 15px;
+    }
+}

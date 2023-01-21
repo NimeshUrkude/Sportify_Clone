@@ -1,0 +1,9 @@
+.App {
+  background-color: pink;
+  width: 100%;
+  height: 100vh;
+}
+.top{
+  display: flex;
+  flex-direction: row;
+}

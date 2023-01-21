@@ -1,0 +1,55 @@
+.left_div{
+    background-color: #040404;
+    width: 70px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    white-space: nowrap;
+    transition: width 0.75s ease-in;
+}
+.left_div:hover{
+    width: 250px;
+}
+.left_logo_a{
+    width: 56px;
+    margin: 20px 6px 35px 6px;
+}
+.left_logo_b{
+    width: 100px;
+    margin-top: -15px;
+}
+.left_music_icon , .left_artist_icon{
+    width: 36px;
+    padding: 0px;
+    margin: 10px 17px;
+}
+.left_page_name{
+    font-family: 'Space Mono', monospace;
+    color: white;
+}
+
+
+@media (min-width:200px) and (max-width:500px) {
+    .left_div{
+        width: 50px;
+    }
+    .left_div:hover{
+        width: 200px;
+    }
+    
+    .left_logo_a{
+        width: 45px;
+        margin: 20px 3px 35px 3px;
+    }
+
+    .left_logo_b{
+        width: 87px;
+        margin-top: -12px;
+        margin-left: -5px;
+    }
+    .left_music_icon , .left_artist_icon{
+        width: 30px;
+        padding: 0px;
+        margin: 10px 10px;
+    }
+}

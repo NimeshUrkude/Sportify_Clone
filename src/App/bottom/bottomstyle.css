@@ -1,0 +1,27 @@
+.bottom_div{
+    background-color: #282828;
+    position: fixed;
+    z-index: 1;
+    bottom: 0px;
+    width: 100%;
+}
+
+.bottom_marquee{
+    background-color: black;
+    width: 100%;
+    color: white;
+    font-size: 15px;
+    word-spacing: 6px;
+    letter-spacing: 1px;
+    padding-top: 2px;
+    margin-bottom: -6px;
+}
+
+.rhap_volume-controls{margin-right:10px;}
+#rhap_current-time{color:white;}
+.rhap_progress-indicator{opacity:1;}
+.rhap_progress-bar{opacity:0.7;}
+.rhap_progress-filled{opacity:1;}
+.rhap_volume-bar{opacity:0.7;}
+.rhap_time{color: white;}
+.rhap_total-time{color: white;}
