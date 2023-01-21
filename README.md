@@ -15,4 +15,3 @@ Sportify Link : https://nimeshurkude.github.io/Sportify_Clone
 
 ## Artist
 ![artist](https://user-images.githubusercontent.com/112500211/213858978-40fbbfd4-c237-46bd-a913-3a2bb2b031fa.png)
-# Sportify_Clone
