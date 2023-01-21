@@ -1,0 +1,7 @@
+.bottomdiv{
+    background-color: #282828;
+    position: fixed;
+    bottom: 0px;
+    z-index: 5;
+    width: 100%;
+}

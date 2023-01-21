@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Sportify_Clone/static/css/main.d8df3e93.css",
+    "main.js": "/Sportify_Clone/static/js/main.880c36a7.js",
+    "static/js/787.95476056.chunk.js": "/Sportify_Clone/static/js/787.95476056.chunk.js",
+    "static/media/three.mp3": "/Sportify_Clone/static/media/three.6437c30c13fc2b11c759.mp3",
+    "static/media/fifteen.mp3": "/Sportify_Clone/static/media/fifteen.542037858ca9097b3c80.mp3",
+    "static/media/seven.mp3": "/Sportify_Clone/static/media/seven.9ded880bafce8618864f.mp3",
+    "static/media/one.mp3": "/Sportify_Clone/static/media/one.56d5811a43b7338a9243.mp3",
+    "static/media/twele.mp3": "/Sportify_Clone/static/media/twele.c88bbda994391d0cdd5f.mp3",
+    "static/media/six.mp3": "/Sportify_Clone/static/media/six.dff9ed0c45c10eff969c.mp3",
+    "static/media/ten.mp3": "/Sportify_Clone/static/media/ten.5ed19b8005363b1a8dfa.mp3",
+    "static/media/thirteen.mp3": "/Sportify_Clone/static/media/thirteen.5727bb916431ab36ea96.mp3",
+    "static/media/eight.mp3": "/Sportify_Clone/static/media/eight.ef0a1e4aa0c6f5be131f.mp3",
+    "static/media/sixteen.mp3": "/Sportify_Clone/static/media/sixteen.82bc32be67ab7bce8f1d.mp3",
+    "static/media/fourteen.mp3": "/Sportify_Clone/static/media/fourteen.64de76587b65f84a442d.mp3",
+    "static/media/five.mp3": "/Sportify_Clone/static/media/five.df0c114eb052462203ca.mp3",
+    "static/media/two.mp3": "/Sportify_Clone/static/media/two.12ed1ed7b422f0c6dbdb.mp3",
+    "static/media/eleven.mp3": "/Sportify_Clone/static/media/eleven.e2e2c6f24bd8cf48fb82.mp3",
+    "static/media/four.mp3": "/Sportify_Clone/static/media/four.c1e29c3864d7c70eaf54.mp3",
+    "static/media/nine.mp3": "/Sportify_Clone/static/media/nine.d4f07c42adc095c08e12.mp3",
+    "static/media/logoa.png": "/Sportify_Clone/static/media/logoa.9f0698b56db82e04d4a3.png",
+    "static/media/artist.png": "/Sportify_Clone/static/media/artist.707829378027c340d76b.png",
+    "static/media/music.png": "/Sportify_Clone/static/media/music.1401d5041eb34fc9fda8.png",
+    "static/media/logob.png": "/Sportify_Clone/static/media/logob.35debee6e2683854d129.png",
+    "index.html": "/Sportify_Clone/index.html",
+    "main.d8df3e93.css.map": "/Sportify_Clone/static/css/main.d8df3e93.css.map",
+    "main.880c36a7.js.map": "/Sportify_Clone/static/js/main.880c36a7.js.map",
+    "787.95476056.chunk.js.map": "/Sportify_Clone/static/js/787.95476056.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8df3e93.css",
+    "static/js/main.880c36a7.js"
+  ]
+}
