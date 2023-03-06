@@ -1,6 +1,6 @@
 # Sportify Clone
 
-This Repository is Clone of Spotify, Build on React.
+This repository is a clone of Spotify, built on React and hosted on Github. It is a great example of how React can be used to create a user interface for a streaming media application. The repository includes all the necessary components for a complete Spotify clone. The repository also includes a set of CSS styles, as well as a set of React components for the various features that Spotify offers. With the repository, developers can easily customize the Spotify clone for their own projects or use it as a starting point for their own projects. All the code is open source, so it can be easily modified and extended.
 
 Sportify Link : https://nimeshurkude.github.io/Sportify_Clone
 
